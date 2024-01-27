@@ -2,8 +2,10 @@
 
 ***yarb00***
 
-c++ developer
 
-developer of PlusTerm and Wordle++
+
+C++ Developer
+
+Developer of RussianRoulette++
 
 **❗**
