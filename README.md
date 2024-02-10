@@ -8,4 +8,5 @@ C++ Developer
 
 Developer of:
 
-*RussianRoulette++* (**https://github.com/yarb00/russian-roulette-plus-plus**)
+*PlusTerm* ( **ARCHIVED** ) - **https://github.com/yarb00/plusterm**
+*RussianRoulette++* - **https://github.com/yarb00/russian-roulette-plus-plus**
