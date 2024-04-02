@@ -2,7 +2,7 @@
 
 [ ***https://yarb00.github.io*** ]
 
-C++/Rust Developer
+C++ Developer
 
 -----
 
