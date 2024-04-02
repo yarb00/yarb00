@@ -6,7 +6,7 @@ C++ Developer
 
 -----
 
-## Developer of:
+### Developer of:
 
 *PlusTerm* (**ARCHIVED !**) - **https://github.com/yarb00/plusterm**
 
