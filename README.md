@@ -1,1 +1,1 @@
-###### ***C++ Developer from :ru:***
+### **C++ Developer from :ru:**
