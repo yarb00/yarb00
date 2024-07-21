@@ -5,14 +5,14 @@
 ---
 
 <img
-	height=200
+	height=150
 	align="center"
 	alt="yarb00's GitHub stats"
 	title="yarb00's GitHub stats"
 	src="https://yarb00-github-readme-stats.vercel.app/api?username=yarb00&hide=contribs,issues,prs&include_all_commits=true&show_icons=true&hide_border=true&theme=tokyonight"
 />
 <img
-	height=200
+	height=150
 	align="center"
 	alt="yarb00's GitHub langs"
 	title="yarb00's GitHub langs"
