@@ -1,6 +1,6 @@
 std::wstring favLang { W"C++ - ❤️" };
 
-fav_lang: &str = "Rust - ❤️ & 🔥";
+let fav_lang: &str = "Rust - ❤️ & 🔥";
 
 ---
 
