@@ -1,6 +1,6 @@
-std::wstring CPP = W"❤️";
+std::wstring favLang { W"C++ - ❤️" };
 
-Rust: &str = "❤️ & 🔥";
+fav_lang: &str = "Rust - ❤️ & 🔥";
 
 ---
 
