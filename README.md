@@ -1,9 +1,3 @@
-std::wstring favLang { W"C++ - ❤️" };
-
-let fav_lang: &str = "Rust - ❤️ & 🔥";
-
----
-
 <img
 	height=150
 	align="center"
